@@ -1,5 +1,5 @@
 # optimisation_1
-Some linear Optimisation problem solved using GurobiPy
+Linear Optimisation problem solved using GurobiPy
 
 Keywords: Gurobi, Linear Optimisation
 
